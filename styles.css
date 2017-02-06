@@ -41,6 +41,9 @@ a {
 	font-size:1.4rem;
 }
 
+a:hover {
+	color:red;
+}
 .clearfix:after {
 		  visibility: hidden;
 		  display: block;
