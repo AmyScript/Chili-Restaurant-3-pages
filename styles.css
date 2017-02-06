@@ -127,6 +127,9 @@ header {
 	padding-right:15%;
 }
 
+.topNavtop a {
+	color:white;
+}
 .topNavTop p, .topNavTop img {
 	display:inline-block;
 	position:relative;
@@ -459,6 +462,10 @@ form .phone, form .people {
 	vertical-align: top;
 	padding:20px;
 
+}
+
+.footerMiddle .wrapper .infoBox a {
+	color:grey;
 }
 
 .footerMiddle .wrapper .infoBox input {
