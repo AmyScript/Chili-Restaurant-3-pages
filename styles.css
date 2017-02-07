@@ -398,7 +398,7 @@ form .phone, form .people {
 
 .servicesText {
 	position:relative;
-	top:-80px;
+	top:-40px;
 }
 .servicesBoxes img {
 	transform: translateY(-50%);
@@ -408,7 +408,7 @@ form .phone, form .people {
 	display: inline-block;
 	background-color: white;
 	width:23%;
-	height:150px;
+	height:130px;
 	margin:0 1%;
 }
 
