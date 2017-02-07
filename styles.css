@@ -115,6 +115,7 @@ a:hover {
 header {
 	background: url("assets/hero.jpg");
 	background-size:cover;
+	background-position: center;
 }
 
 /* Top Navigation *************************************************/
